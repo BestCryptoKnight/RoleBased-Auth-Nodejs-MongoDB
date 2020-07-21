@@ -52,7 +52,7 @@ function jwt(roles = []) {
 
       if (!user || (roles.length && !roles.includes(user.role))) {
         // user's role is not authorized
-        return res.status(401).json({ message: "Authorized!" });
+        return res.status(401).json({ message: "Only Admin is Authorized!" });
       }
       // authentication and authorization successful
       req.user.role = user.role;
