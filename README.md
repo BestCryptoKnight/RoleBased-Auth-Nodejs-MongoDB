@@ -32,19 +32,19 @@ It is perfect fit for creating a Customer management system using nodejs-backend
 
 ![alt text][logo]
 
-[logo]: https://github.com/n-bhasin/RoleBased-Auth-Nodejs-MongoDB/tree/master/models/register.png "Register new user"
+[logo]: https://github.com/n-bhasin/RoleBased-Auth-Nodejs-MongoDB/blob/master/documents/register.png "Register new user"
 
 #### Authenticate user
 
 ![alt text][logo]
 
-[logo]: https://github.com/n-bhasin/RoleBased-Auth-Nodejs-MongoDB/tree/master/models/authenticate.png "Authenticate user"
+[logo]: https://github.com/n-bhasin/RoleBased-Auth-Nodejs-MongoDB/blob/master/documents/authenticate.png "Authenticate user"
 
 #### Current user
 
 ![alt text][logo]
 
-[logo]: https://github.com/n-bhasin/RoleBased-Auth-Nodejs-MongoDB/tree/master/models/current.png "Currentuser"
+[logo]: https://github.com/n-bhasin/RoleBased-Auth-Nodejs-MongoDB/blob/master/documents/current.png "Currentuser"
 
 # Instructions
 
