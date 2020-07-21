@@ -1,0 +1,4 @@
+{
+  "connectionString": "mongodb+srv://local_library_user:bhasin28@cluster0-nhau9.azure.mongodb.net/mutualfund?retryWrites=true&w=majority",
+  "secret": "no@competion!28"
+}
