@@ -5,9 +5,9 @@
 This is a backend template for Role based authentication which is created by using nodejs, epxress, jwt and mongoDB.
 It is perfect fit for creating a Customer management system using nodejs-backend or reactjs-frontend.
 
----
-
 # Created By
+
+---
 
     Name: Bhasin Neeraj
     Email: nkbhasin28@gmail.com
@@ -16,15 +16,15 @@ It is perfect fit for creating a Customer management system using nodejs-backend
 
 # Project File Structure
 
-    | File        | Details(contains)        |
-    | ------------- |:-------------:| -----:|
-    |congif.json   | mongoDB Url, JWT private key |
-    |helpers/db.js    | contains the monogoDB connection |
-    |helpers/errorHandler.js    | global errors |
-    |helpers/jwt.js    | authenticates the token and role. |
-    |helpers/role.js    | contains the roles(Admin, User) |
-    |services/user.services.js    | all methods that perform crud operations |
-    |routes/user.controllers.js    | routes to all crud operations |
+| File                       |            Details(contains)            |
+| -------------------------- | :-------------------------------------: |
+| congif.json                |      mongoDB Url, JWT private key       |
+| helpers/db.js              |    contains the monogoDB connection     |
+| helpers/errorHandler.js    |              global errors              |
+| helpers/jwt.js             |    authenticates the token and role.    |
+| helpers/role.js            |     contains the roles(Admin, User)     |
+| services/user.services.js  | all methods that perform crud operation |
+| routes/user.controllers.js |      routes to all crud operations      |
 
 # Project Images Using Postman
 
