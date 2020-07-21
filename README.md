@@ -36,14 +36,11 @@ It is perfect fit for creating a Customer management system using nodejs-backend
 
 #### Authenticate user
 
-![alt text][logo]
-
-[logo]: https://github.com/n-bhasin/RoleBased-Auth-Nodejs-MongoDB/blob/master/documents/authenticate/authenticate.png "Authenticate user"
+[![Authenticate user](/documents/authenticate/authenticate.png)
 
 #### Current user
 
-![alt text][logo]
-[logo]: https://github.com/n-bhasin/RoleBased-Auth-Nodejs-MongoDB/blob/master/documents/current.png "Current user"
+[![Current user](/documents/current.png)
 
 #### Unauthorized Access
 
