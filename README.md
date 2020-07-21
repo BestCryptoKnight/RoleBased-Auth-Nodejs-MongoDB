@@ -42,13 +42,9 @@ It is perfect fit for creating a Customer management system using nodejs-backend
 
 #### Current user
 
-![alt text][logo]
-
-[logo]: https://github.com/n-bhasin/RoleBased-Auth-Nodejs-MongoDB/blob/master/documents/current.png "Currentuser"
+[logo]: https://github.com/n-bhasin/RoleBased-Auth-Nodejs-MongoDB/blob/master/documents/current.png "Current user"
 
 #### Unauthorized Access
-
-![alt text][logo]
 
 [logo]: https://github.com/n-bhasin/RoleBased-Auth-Nodejs-MongoDB/blob/master/documents/unauthorized.png "Unauthorized Access"
 
