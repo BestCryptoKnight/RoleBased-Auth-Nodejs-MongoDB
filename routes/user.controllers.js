@@ -43,7 +43,6 @@ function register(req, res, next) {
 
 function getAll(req, res, next) {
   const currentUser = req.user;
-  console.log(currentUser);
   if (currentUser.role !== Role.Admin) {
     return res.status(401).json({ message: "Not Authorized!" });
   }
